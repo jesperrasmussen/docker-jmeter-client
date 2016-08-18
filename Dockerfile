@@ -1,6 +1,6 @@
-FROM hhcordero/docker-jmeter-server
+FROM jesperrasmussen/jmeter-server
 
-MAINTAINER Hector Cordero <hhcordero@gmail.com>
+MAINTAINER Jesper Rasmussen <hello@jesperrasmussen.com>
 
 ENV TEST_DIR default
 ENV TEST_PLAN test-plan
