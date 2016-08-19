@@ -1,4 +1,4 @@
-FROM jesperrasmussen/jmeter-server
+FROM jesperrasmussen/jmeter-slave
 
 MAINTAINER Jesper Rasmussen <hello@jesperrasmussen.com>
 
